@@ -1,0 +1,7 @@
+1. MONG MUỐN VÀ ĐỊNH HƯỚNG CỦA BẠN LÀ GÌ SAU KHI HỌC XONG MÔN HỌC LÀ GÌ?
+- em muốn hiểu rõ hơn về cái quy trình để tạo ra một cái ứng dụng di động.
+- có khả năng tạo ra một cái ứng dụng nhỏ, đơn giản, chạy được trên điện thoại. 
+- bên cạnh đó muốn phát triển cái kỹ năng làm việc nhóm của bản thân.
+
+2. THEO BẠN, TRONG TƯƠNG LAI GẦN ( 10 NĂM ) LẬP TRNHF DI ĐỘNG CÓ PHÁT TRIỂN KHÔNG? GIẢI THÍCH TẠI SAO?
+- theo em thì có phát triển. Vì thiết bị di động ngày càng phổ biến, nhường như trở thành vật bất ly thân của tất cả mọi người, là công cụ chính để mọi người truy cập internet, học tập, giải trí, ..... Các cái lĩnh vư như là giáo dục, y tế, thương mai điện tử, ngân hàng ,... cũng đều đang chuyển hướng sang nền tảng mảng di động để có thể tiếp cận tới mọi người nhanh cũng như tiện lợi hơn.
