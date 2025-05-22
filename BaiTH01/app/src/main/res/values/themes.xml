@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<<<<<<< HEAD
+    <style name="Theme.BaiThucHanh02" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+<<<<<<< HEAD
+    <style name="Theme.BaiThucHanh02" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+<<<<<<< HEAD
+    <style name="Theme.BaiThucHanh02" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+<<<<<<< HEAD
+    <style name="Theme.BaiThucHanh02" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+    <style name="Theme.BaiTH01" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> dc2883d (baithuchanh01)
+>>>>>>> 7a8f556 (baiTHUChanh01)
+>>>>>>> c69aaff (baithuchanh01)
+>>>>>>> eabdf85 (bth01)
+</resources>
